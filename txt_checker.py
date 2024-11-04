@@ -6,7 +6,7 @@ from typing import Dict, List, Set
 #################################################################
 ## Author:        MT2Dev       -      25/10/2024               ##
 ## Environment:   Python 2.7 (FreeBSD/Windows)                 ##
-## USAGE SYNTAX:  python drop_txt_checker.py mob_drop_item.txt ##
+## USAGE SYNTAX:  python txt_checker.py mob_drop_item.txt      ##
 #################################################################
 
 def check_sequence_gaps(filename: str) -> Dict[str, List[int]]:
