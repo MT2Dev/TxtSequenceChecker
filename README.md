@@ -11,4 +11,5 @@
 
 **SYNTAX:** python txt_checker.py mob_drop_item.txt (Or other .txt names)
 
-Best Regards, MT2Dev.
+
+*Best Regards, MT2Dev.*
